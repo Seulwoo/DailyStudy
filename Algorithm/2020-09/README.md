@@ -25,3 +25,11 @@ N×N 크기의 공간에 물고기 M마리와 아기 상어 1마리가 있다. �
 - [BJ16236.cpp](https://github.com/Seulwoo/DailyStudy/blob/main/Algorithm/2020-09/BJ16236.cpp)
 
     자신보다 큰 물고기를 지나갈 수 없다는 것을 모르고 막 짜봤었는데 나중에 알았다. BFS를 이용해서 최단거리의 먹을 수 있는 물고기를 찾는 코드로 바꾸었다.
+
+### [백준 1920 : 수 찾기](https://www.acmicpc.net/problem/1920)
+
+N개의 정수 A[1], A[2], …, A[N]이 주어져 있을 때, 이 안에 X라는 정수가 존재하는지 알아내는 프로그램을 작성하시오.
+
+- [BJ1920.cpp](https://github.com/Seulwoo/DailyStudy/blob/main/Algorithm/2020-09/BJ1920.cpp)
+
+    이분 탐색에 약해서 공부를 했다. algorithm 헤더에 binary_search 라는 함수가 있는 것을 처음 알고 사용을 해 보았다.
