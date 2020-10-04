@@ -10,4 +10,4 @@
 
 - [BJ12865.cpp](https://github.com/Seulwoo/DailyStudy/blob/main/Algorithm/2020-10/BJ12865.cpp)
 
-    알고리즘 수업 때 배웠던 knapsack의 대표적인 문제인데 알고리즘이 기억이 잘 안나서 knapsack 알고리즘 대표 코드를 참고해서 풀었다
+    알고리즘 수업 때 배웠던 knapsack의 대표적인 문제인데 알고리즘이 기억이 잘 안나서 knapsack 알고리즘 대표 코드를 참고해서 풀었다.
