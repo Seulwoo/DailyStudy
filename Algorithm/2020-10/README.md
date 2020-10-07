@@ -37,3 +37,19 @@ N과 K가 주어지면 (N, K)-요세푸스 순열을 구하는 프로그램을 �
 - [BJ1158.cpp](https://github.com/Seulwoo/DailyStudy/blob/main/Algorithm/2020-10/BJ1158.cpp)
 
     Queue를 사용해서 풀었다.
+    
+
+### 10/07 [백준 14395 4연산](https://www.acmicpc.net/problem/14395)
+
+정수 s가 주어진다. 정수 s의 값을 t로 바꾸는 최소 연산 횟수를 구하는 프로그램을 작성하시오.
+
+사용할 수 있는 연산은 아래와 같다.
+
+s = s + s; (출력: +)
+s = s - s; (출력: -)
+s = s * s; (출력: *)
+s = s / s; (출력: /) (s가 0이 아닐때만 사용 가능)
+
+- [BJ14395.cpp](https://github.com/Seulwoo/DailyStudy/blob/main/Algorithm/2020-10/BJ14395.cpp)
+
+    BFS 문제인데, 처음에 큐 초기화를 잘못해서 시간을 엄청 많이 잡아먹었다.
