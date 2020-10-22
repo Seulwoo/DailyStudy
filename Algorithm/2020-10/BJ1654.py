@@ -7,7 +7,8 @@ for i in range(K):
     inputs.append(int(read()))
 
 left = 0
-right = max(inputs)
+# right = max(inputs)
+right = pow(2,31)-1
 answer = 0
 while left <= right:
     mid = int((left+right)/2)
