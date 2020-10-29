@@ -1,5 +1,5 @@
 # Information Processing Engineer Certification Test Summary !
 
 📙 Past problems Link
-- 2020-08
-- 2020-06
+- [2020-08](https://github.com/Seulwoo/DailyStudy/blob/main/ComputerScience/IPEC/summary1.md)
+- [2020-06](https://github.com/Seulwoo/DailyStudy/blob/main/ComputerScience/IPEC/summary2.md)
