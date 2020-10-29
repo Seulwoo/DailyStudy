@@ -205,3 +205,11 @@ N, K가 주어졌을 때, K번째 지우는 수를 구하는 프로그램을 작
 - [BJ11057.py](https://github.com/Seulwoo/DailyStudy/blob/main/Algorithm/2020-10/BJ11057.py)
 
     파이썬 입출력에 익숙해지기위한 문제~
+
+
+### 10/29 [백준 2750 수 정렬하기 ](https://www.acmicpc.net/problem/2750)
+N개의 수가 주어졌을 때, 이를 오름차순으로 정렬하는 프로그램을 작성하시오.
+
+- [BJ2750.cpp](https://github.com/Seulwoo/DailyStudy/blob/main/Algorithm/2020-10/BJ2750.cpp)
+
+    c++ cin, cout 입출력에 익숙해지기 위해서 몸을 풀었다
