@@ -1,3 +1,5 @@
 # Information Processing Engineer Certification Test Summary !
 
-- 2020
+📙 Past problems Link
+- 2020-08
+- 2020-06
