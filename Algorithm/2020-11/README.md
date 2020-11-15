@@ -1,4 +1,4 @@
-2020-10 ALGORITHM DIARY
+2020-11 ALGORITHM DIARY
 
 ### 11/05 [백준 1753 최단 거리](https://www.acmicpc.net/problem/1753)
 
@@ -29,3 +29,23 @@ N개의 정수가 주어진다. 이때, N개의 정수를 오름차순으로 정
 - [BJ2667.cpp](https://github.com/Seulwoo/DailyStudy/blob/main/Algorithm/2020-11/BJ2667.cpp)
 
     BFS로 풀었다, 내일 코딩테스트를 위해 몸풀기
+    
+    
+### 11/15 [백준 10866 덱](https://www.acmicpc.net/problem/10866)
+
+정수를 저장하는 덱(Deque)를 구현한 다음, 입력으로 주어지는 명령을 처리하는 프로그램을 작성하시오.
+
+명령은 총 여덟 가지이다.
+
+push_front X: 정수 X를 덱의 앞에 넣는다.
+push_back X: 정수 X를 덱의 뒤에 넣는다.
+pop_front: 덱의 가장 앞에 있는 수를 빼고, 그 수를 출력한다. 만약, 덱에 들어있는 정수가 없는 경우에는 -1을 출력한다.
+pop_back: 덱의 가장 뒤에 있는 수를 빼고, 그 수를 출력한다. 만약, 덱에 들어있는 정수가 없는 경우에는 -1을 출력한다.
+size: 덱에 들어있는 정수의 개수를 출력한다.
+empty: 덱이 비어있으면 1을, 아니면 0을 출력한다.
+front: 덱의 가장 앞에 있는 정수를 출력한다. 만약 덱에 들어있는 정수가 없는 경우에는 -1을 출력한다.
+back: 덱의 가장 뒤에 있는 정수를 출력한다. 만약 덱에 들어있는 정수가 없는 경우에는 -1을 출력한다.
+
+- [BJ10866.cpp](https://github.com/Seulwoo/DailyStudy/blob/main/Algorithm/2020-11/BJ10866.cpp)
+
+    자료 구조 문제가 풀고싶어져서 풀었다! solved.ac의 silver 단계의 문제를 풀어야겠다.
